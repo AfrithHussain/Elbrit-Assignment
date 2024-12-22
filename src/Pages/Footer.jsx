@@ -11,7 +11,7 @@ import "react-lazy-load-image-component/src/effects/blur.css";
 function Footer() {
   return (
     <div>
-      <footer className="bg-[#17414F] text-white pt-10">
+      <footer className="bg-[#17414F] text-white pt-10 mt-10">
         {/* ------------MAINFLEX--------------------------- */}
 
         <div className="flex justify-center items-center flex-wrap gap-5 px-5 sm:gap-10">
