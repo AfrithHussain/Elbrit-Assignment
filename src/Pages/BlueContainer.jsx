@@ -29,7 +29,7 @@ function BlueContainer() {
 
                   {/* -----FLEX-2----- */}
                   <div className="bg-[#FFE9B5] w-60 h-60 radius">
-                       <LazyLoadImage wrapperProps={{ style: {transitionDelay: "0.3s"}}} effect='blur' src={Probiotic} className='-translate-y-10 ' alt="" />
+                       <LazyLoadImage wrapperProps={{ style: {transitionDelay: "0.1s"}}} effect='blur' src={Probiotic} className='-translate-y-10 ' alt="" />
                      
                   </div>
 
@@ -37,7 +37,7 @@ function BlueContainer() {
                   {/* -----FLEX-3----- */}
                   <div className="lg:translate-y-10">
                       <div className="flex items-center gap-4   ">
-                          <LazyLoadImage wrapperProps={{ style: {transitionDelay: "0.3s"}}} effect='blur' src={Pill} className='w-14' alt="" />
+                          <LazyLoadImage wrapperProps={{ style: {transitionDelay: "0.1s"}}} effect='blur' src={Pill} className='w-14' alt="" />
                           <div className="">
                           <p className='text-[#17414F] text-2xl font-semibold gap-4'>Vitamins</p>
                           <p className='text-neutral-600 text-sm'>Increased Vitamins and <br />
@@ -46,7 +46,7 @@ function BlueContainer() {
                       </div>
 
                       <div className="flex  items-center mt-5 gap-4">
-                          <LazyLoadImage wrapperProps={{ style: {transitionDelay: "0.3s"}}} effect='blur' className='w-14' src={Weightscale} alt="" />
+                          <LazyLoadImage wrapperProps={{ style: {transitionDelay: "0.1s"}}} effect='blur' className='w-14' src={Weightscale} alt="" />
                          <div className="">
                          <p className='text-[#17414F] text-2xl font-semibold '>Weight Loss</p>
                           <p className='text-neutral-600 text-sm'> Weight Loss  <br />
@@ -55,7 +55,7 @@ function BlueContainer() {
                       </div>
 
                       <div className="flex items-center mt-5 gap-4">
-                          <LazyLoadImage wrapperProps={{ style: {transitionDelay: "0.3s"}}} effect='blur'  className='w-14' src={Powder} alt="" />
+                          <LazyLoadImage wrapperProps={{ style: {transitionDelay: "0.1s"}}} effect='blur'  className='w-14' src={Powder} alt="" />
                           <div className="">
                           <p className='text-[#17414F] text-2xl font-semibold  '>Fuctional Foods</p>
                           <p className='text-neutral-600 text-sm'>Functional Foods <br />

@@ -24,7 +24,7 @@ function LatestNewsCard() {
           <div className="text-white relative">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Tablet2}
               className="w-56 rounded-lg cursor-pointer"
               alt=""
@@ -42,7 +42,7 @@ function LatestNewsCard() {
           <div className="text-white relative">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Tablet1}
               className="w-56 cursor-pointer h-32 object-cover  rounded-lg"
               alt=""
@@ -64,7 +64,7 @@ function LatestNewsCard() {
           <div className="text-white relative">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Tablet1}
               className="w-56 rounded-lg cursor-pointer "
               alt=""
@@ -82,7 +82,7 @@ function LatestNewsCard() {
           <div className="text-white relative ">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Tablet2}
               className="w-56  h-32 cursor-pointer object-cover object-top  rounded-lg"
               alt=""
@@ -104,7 +104,7 @@ function LatestNewsCard() {
           <div className="text-white relative">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Tablet2}
               className="w-56 rounded-lg cursor-pointer"
               alt=""
@@ -122,7 +122,7 @@ function LatestNewsCard() {
           <div className="text-white relative">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Tablet1}
               className="w-56 h-32 object-cover  rounded-lg cursor-pointer"
               alt=""
@@ -145,7 +145,7 @@ function LatestNewsCard() {
             <div className="text-white relative">
               <LazyLoadImage
                 effect="blur"
-                wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+                wrapperProps={{ style: { transitionDelay: "0.1s" } }}
                 src={Tablet1}
                 className="w-56 rounded-lg cursor-pointer"
                 alt=""
@@ -163,7 +163,7 @@ function LatestNewsCard() {
             <div className="text-white relative">
               <LazyLoadImage
                 effect="blur"
-                wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+                wrapperProps={{ style: { transitionDelay: "0.1s" } }}
                 src={Tablet2}
                 className="w-56 h-32 object-cover  rounded-lg object-top cursor-pointer"
                 alt=""

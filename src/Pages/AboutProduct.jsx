@@ -18,7 +18,7 @@ function AboutProduct() {
           <div className="flex flex-col items-center justify-center gap-2 xl:-translate-y-10">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               wrap
               src={Chemical}
               className="w-16 object-cover rounded-full h-16 p-3 bg-white"
@@ -34,7 +34,7 @@ function AboutProduct() {
           <div className="flex flex-col items-center justify-center gap-2 xl:-translate-y-10">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               wrap
               src={Leaves}
               className="w-16 object-cover rounded-full h-16 p-3 bg-white"
@@ -50,7 +50,7 @@ function AboutProduct() {
           <div className="flex flex-col items-center justify-center gap-2 xl:-translate-y-10">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               wrap
               src={Plus}
               className="w-16 object-cover rounded-full h-16 p-3 bg-white"
@@ -66,7 +66,7 @@ function AboutProduct() {
           <div className="flex flex-col items-center justify-center gap-2">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               wrap
               src={Shopping}
               className="w-16 object-cover rounded-full h-16 p-3 bg-white"
@@ -82,7 +82,7 @@ function AboutProduct() {
           <div className="flex flex-col items-center justify-center gap-2">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               wrap
               src={Package}
               className="w-16 object-cover rounded-full h-16 p-3 bg-white"
@@ -98,7 +98,7 @@ function AboutProduct() {
           <div className="flex flex-col items-center justify-center gap-2">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               wrap
               src={Moreleaves}
               className="w-16 object-cover rounded-full h-16 p-3 bg-white"

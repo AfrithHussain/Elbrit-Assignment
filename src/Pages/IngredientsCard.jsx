@@ -28,7 +28,7 @@ function IngredientsCard() {
         <div className="relative">
           <LazyLoadImage
             effect="blur"
-            wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+            wrapperProps={{ style: { transitionDelay: "0.1s" } }}
             src={Card1}
             className="w-80 h-44 rounded-2xl object-cover"
             alt=""
@@ -48,7 +48,7 @@ function IngredientsCard() {
         <div className="relative">
           <LazyLoadImage
             effect="blur"
-            wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+            wrapperProps={{ style: { transitionDelay: "0.1s" } }}
             src={Card2}
             className="w-80 h-44 rounded-2xl object-cover"
             alt=""
@@ -68,7 +68,7 @@ function IngredientsCard() {
         <div className="relative">
           <LazyLoadImage
             effect="blur"
-            wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+            wrapperProps={{ style: { transitionDelay: "0.1s" } }}
             src={Card3}
             className="w-80 h-44 rounded-2xl object-cover"
             alt=""
@@ -88,7 +88,7 @@ function IngredientsCard() {
         <div className="relative">
           <LazyLoadImage
             effect="blur"
-            wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+            wrapperProps={{ style: { transitionDelay: "0.1s" } }}
             src={Card4}
             className="w-80 h-44 rounded-2xl object-cover"
             alt=""
@@ -108,7 +108,7 @@ function IngredientsCard() {
         <div className="relative">
           <LazyLoadImage
             effect="blur"
-            wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+            wrapperProps={{ style: { transitionDelay: "0.1s" } }}
             src={Card5}
             className="w-80 h-44 rounded-2xl object-cover"
             alt=""
@@ -128,7 +128,7 @@ function IngredientsCard() {
         <div className="relative">
           <LazyLoadImage
             effect="blur"
-            wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+            wrapperProps={{ style: { transitionDelay: "0.1s" } }}
             src={Cart6}
             className="w-20"
             alt=""

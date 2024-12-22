@@ -12,7 +12,7 @@ function LogoComponent() {
         src={Logo}
         alt="Logo"
         effect="blur"
-        wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+        wrapperProps={{ style: { transitionDelay: "0.1s" } }}
       />
     </div>
   );

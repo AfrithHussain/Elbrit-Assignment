@@ -19,7 +19,7 @@ function Footer() {
           <div className="flex items-center gap-2 bg-[#215D72] rounded-md p-3 sm:p-2 text-white text-sm sm:px-14 sm:py-2">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Phonecall}
               className="w-10 sm:w-14"
               alt="Phonecall"
@@ -34,7 +34,7 @@ function Footer() {
           <div className="flex items-center gap-2 bg-[#215D72] rounded-md p-3 sm:p-2 text-white text-sm sm:px-14 sm:py-2">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Email}
               className="w-10 sm:w-14"
               alt="Email"
@@ -49,7 +49,7 @@ function Footer() {
           <div className="flex items-center gap-2 bg-[#215D72] rounded-md p-3 sm:p-2 text-white text-sm sm:px-14 sm:py-2">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Location}
               className="w-10 sm:w-14"
               alt="Location"
@@ -66,7 +66,7 @@ function Footer() {
           <div className="flex flex-col sm:flex-row gap-5 sm:gap-20 flex-wrap justify-center items-center">
             <LazyLoadImage
               effect="blur"
-              wrapperProps={{ style: { transitionDelay: "0.3s" } }}
+              wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Logo}
               className="w-32 sm:w-48 bg-white p-2"
               alt="Logo"
