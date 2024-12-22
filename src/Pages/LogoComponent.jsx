@@ -7,7 +7,7 @@ function LogoComponent() {
   return (
     <div>
       <LazyLoadImage
-        className="w-36 mx-10 md:mx-32 mt-6"
+        className="w-36 mx-10 md:mx-32 mt-6 cursor-pointer"
         loading="lazy"
         src={Logo}
         alt="Logo"

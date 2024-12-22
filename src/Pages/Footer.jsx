@@ -21,7 +21,7 @@ function Footer() {
               effect="blur"
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Phonecall}
-              className="w-10 sm:w-14"
+              className="w-10 sm:w-14 cursor-pointer"
               alt="Phonecall"
             />
             <div>
@@ -36,7 +36,7 @@ function Footer() {
               effect="blur"
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Email}
-              className="w-10 sm:w-14"
+              className="w-10 sm:w-14 cursor-pointer"
               alt="Email"
             />
             <div>
@@ -56,7 +56,7 @@ function Footer() {
             />
             <div>
               <p>Office Location</p>
-              <p className="font-semibold">Ambassador Street, Zone 61</p>
+              <p className="font-semibold cursor-pointer">Ambassador Street, Zone 61</p>
             </div>
           </div>
         </div>
@@ -68,7 +68,7 @@ function Footer() {
               effect="blur"
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Logo}
-              className="w-32 sm:w-48 bg-white p-2"
+              className="w-32 sm:w-48 bg-white p-2 cursor-pointer"
               alt="Logo"
             />
             <p className="text-sm leading-6 text-center sm:text-left sm:w-1/3">
@@ -81,7 +81,7 @@ function Footer() {
 
         {/* -------Address Section */}
         <div className="flex flex-col sm:flex-row items-center gap-3 mt-10 justify-center px-5 text-center sm:text-left">
-          <SlLocationPin className="text-xl" />
+          <SlLocationPin className="text-xl cursor-pointer"  />
           <p className="text-sm">
             Elbrit Life Sciences Private Limited. C20, BKC, G Block, Mumbai
             400051

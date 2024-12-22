@@ -39,7 +39,7 @@ function IngredientsCard() {
           <p className="text-neutral-600 text-sm font-[500] absolute top-14 left-5 w-40">
             Vitamin C as ascorbic acid
           </p>
-          <p className="underline-offset-4 text-[#003569] font-[500] text-xs absolute bottom-3 left-5 underline">
+          <p className=" cursor-pointer underline-offset-4 text-[#003569] font-[500] text-xs absolute bottom-3 left-5 underline">
             SEE MORE
           </p>
         </div>
@@ -59,7 +59,7 @@ function IngredientsCard() {
           <p className="text-neutral-600 text-sm font-[500] absolute top-14 left-5 w-40">
             Niacin for healthy gut and skin
           </p>
-          <p className="underline-offset-4 text-[#003569] font-[500] text-xs absolute bottom-3 left-5 underline">
+          <p className=" cursor-pointer underline-offset-4 text-[#003569] font-[500] text-xs absolute bottom-3 left-5 underline">
             SEE MORE
           </p>
         </div>
@@ -79,7 +79,7 @@ function IngredientsCard() {
           <p className="text-neutral-600 text-sm font-[500] absolute top-14 left-5 w-40">
             Boost energy and support muscle function
           </p>
-          <p className="underline-offset-4 text-[#003569] font-[500] text-xs absolute bottom-3 left-5 underline">
+          <p className=" cursor-pointer underline-offset-4 text-[#003569] font-[500] text-xs absolute bottom-3 left-5 underline">
             SEE MORE
           </p>
         </div>
@@ -99,7 +99,7 @@ function IngredientsCard() {
           <p className="text-neutral-600 text-sm font-[500] absolute top-14 left-5 w-40">
             For smooth, supple and soft skin!
           </p>
-          <p className="underline-offset-4 text-[#003569] font-[500] text-xs absolute bottom-3 left-5 underline">
+          <p className=" cursor-pointer underline-offset-4 text-[#003569] font-[500] text-xs absolute bottom-3 left-5 underline">
             SEE MORE
           </p>
         </div>
@@ -119,7 +119,7 @@ function IngredientsCard() {
           <p className="text-neutral-600 text-sm font-[500] absolute top-14 left-5 w-40">
             Invigorate your gut microbiome
           </p>
-          <p className="underline-offset-4 text-[#003569] font-[500] text-xs absolute bottom-3 left-5 underline">
+          <p className=" cursor-pointer underline-offset-4 text-[#003569] font-[500] text-xs absolute bottom-3 left-5 underline">
             SEE MORE
           </p>
         </div>

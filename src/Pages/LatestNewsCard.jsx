@@ -26,7 +26,7 @@ function LatestNewsCard() {
               effect="blur"
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Tablet2}
-              className="w-72 rounded-lg cursor-pointer"
+              className=" w-72 rounded-lg cursor-pointer"
               alt=""
             />
             <p className="text-xs bg-[#003569] px-3 py-1 rounded-r-full w-fit absolute top-3 left-0">
@@ -44,7 +44,7 @@ function LatestNewsCard() {
               effect="blur"
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Tablet1}
-              className="w-72 cursor-pointer h-32 object-cover  rounded-lg"
+              className=" w-72 cursor-pointer h-32 object-cover  rounded-lg"
               alt=""
             />
             <p className="text-xs bg-[#003569] px-3 py-1 rounded-r-full w-fit absolute top-3 left-0">
@@ -66,7 +66,7 @@ function LatestNewsCard() {
               effect="blur"
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Tablet1}
-              className="w-72 rounded-lg cursor-pointer "
+              className=" w-72 rounded-lg cursor-pointer "
               alt=""
             />
             <p className="text-xs bg-[#003569]  px-3 py-1 rounded-r-full w-fit absolute top-3 left-0">
@@ -84,7 +84,7 @@ function LatestNewsCard() {
               effect="blur"
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Tablet2}
-              className="w-72  h-32 cursor-pointer object-cover object-top  rounded-lg"
+              className=" w-72  h-32 cursor-pointer object-cover object-top  rounded-lg"
               alt=""
             />
             <p className="text-xs bg-[#003569] px-3 py-1 rounded-r-full w-fit absolute top-3 left-0">
@@ -106,7 +106,7 @@ function LatestNewsCard() {
               effect="blur"
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Tablet2}
-              className="w-72 rounded-lg cursor-pointer"
+              className=" w-72 rounded-lg cursor-pointer"
               alt=""
             />
             <p className="text-xs bg-[#003569]  px-3 py-1 rounded-r-full w-fit absolute top-3 left-0">
@@ -124,7 +124,7 @@ function LatestNewsCard() {
               effect="blur"
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               src={Tablet1}
-              className="w-72 h-32 object-cover  rounded-lg cursor-pointer"
+              className=" w-72 h-32 object-cover  rounded-lg cursor-pointer"
               alt=""
             />
             <p className="text-xs bg-[#003569] px-3 py-1 rounded-r-full w-fit absolute top-3 left-0">
@@ -147,7 +147,7 @@ function LatestNewsCard() {
                 effect="blur"
                 wrapperProps={{ style: { transitionDelay: "0.1s" } }}
                 src={Tablet1}
-                className="w-72 rounded-lg cursor-pointer"
+                className=" w-72 rounded-lg cursor-pointer"
                 alt=""
               />
               <p className="text-xs bg-[#003569] px-3 py-1 rounded-r-full w-fit absolute top-3 left-0 ">
@@ -165,7 +165,7 @@ function LatestNewsCard() {
                 effect="blur"
                 wrapperProps={{ style: { transitionDelay: "0.1s" } }}
                 src={Tablet2}
-                className="w-72 h-32 object-cover  rounded-lg object-top cursor-pointer"
+                className=" w-72 h-32 object-cover  rounded-lg object-top cursor-pointer"
                 alt=""
               />
               <p className="text-xs bg-[#003569] px-3 py-1 rounded-r-full w-fit absolute top-3 left-0">

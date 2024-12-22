@@ -21,7 +21,7 @@ function AboutProduct() {
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               wrap
               src={Chemical}
-              className="w-16 object-cover rounded-full h-16 p-3 bg-white"
+              className="cursor-pointer w-16 object-cover rounded-full h-16 p-3 bg-white"
               alt=""
             />
             <p className="text-xl font-[500]">Clinically Studied</p>
@@ -37,7 +37,7 @@ function AboutProduct() {
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               wrap
               src={Leaves}
-              className="w-16 object-cover rounded-full h-16 p-3 bg-white"
+              className="cursor-pointer w-16 object-cover rounded-full h-16 p-3 bg-white"
               alt=""
             />
             <p className="text-xl font-[500]">Vegetarian Friendly</p>
@@ -53,7 +53,7 @@ function AboutProduct() {
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               wrap
               src={Plus}
-              className="w-16 object-cover rounded-full h-16 p-3 bg-white"
+              className="cursor-pointer w-16 object-cover rounded-full h-16 p-3 bg-white"
               alt=""
             />
             <p className="text-xl font-[500]">Made in India</p>
@@ -69,7 +69,7 @@ function AboutProduct() {
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               wrap
               src={Shopping}
-              className="w-16 object-cover rounded-full h-16 p-3 bg-white"
+              className="cursor-pointer w-16 object-cover rounded-full h-16 p-3 bg-white"
               alt=""
             />
             <p className="text-xl font-[500]">Free shipping</p>
@@ -85,7 +85,7 @@ function AboutProduct() {
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               wrap
               src={Package}
-              className="w-16 object-cover rounded-full h-16 p-3 bg-white"
+              className="cursor-pointer w-16 object-cover rounded-full h-16 p-3 bg-white"
               alt=""
             />
             <p className="text-xl font-[500]">No Risk</p>
@@ -101,7 +101,7 @@ function AboutProduct() {
               wrapperProps={{ style: { transitionDelay: "0.1s" } }}
               wrap
               src={Moreleaves}
-              className="w-16 object-cover rounded-full h-16 p-3 bg-white"
+              className="cursor-pointer w-16 object-cover rounded-full h-16 p-3 bg-white"
               alt=""
             />
             <p className="text-xl font-[500]">GMO free</p>
