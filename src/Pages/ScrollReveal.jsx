@@ -28,8 +28,8 @@ function ScrollReveal({ children, className }) {
   return (
     <div
       ref={ref}
-      className={`${className} transition-all duration-300 delay-700 ease-in-out  ${
-        isVisible ? 'opacity-100 blur-0' : 'opacity-0 blur-md'
+      className={`${className} transition-all duration-300 delay-300 ease-in-out  ${
+        isVisible ? 'opacity-100 blur-0' : 'opacity-0 blur-3xl'
       }`}
     >
       {children}
